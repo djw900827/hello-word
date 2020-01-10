@@ -10,4 +10,4 @@ print('hello word')
 ```
 
 ## 参考
-hello word[enter link description here](https://guides.github.com/activities/hello-world/)
+[hello word](https://guides.github.com/activities/hello-world/)
